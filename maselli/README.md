@@ -52,11 +52,12 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Reti di Elabor
 In questi forum chiunque può contribuire non solo proponendo soluzioni o commentando, ma anche [aggiungendo tracce di esercizi di esonero o d'esame](../../../discussions/new?category=esoneri-esami-m-z) e [aggiungendo tracce di esercizi per casa](../../../discussions/new?category=esercizi-m-z). Se vuoi dare un contributo ancora più significativo, puoi anche entrare a far parte del team di gestione! 🙂
 
 Attualmente, la gestione di questo forum, in particolare della sezione M-Z, è affidata ai seguenti colleghi e colleghe:
-- Matteo **R.** ([@rimaout](https://github.com/rimaout))
+
 - Luca **Martinelli** ([@luckignolo32](https://github.com/luckignolo32)) [[Telegram](https://t.me/LucaM1655)]
 - Alessio **Marini** ([@alem1105](https://github.com/alem1105)) [[Telegram](https://t.me/alem1153)]
-- Aglaia **Norza** ([@AglaiaNorza](https://github.com/aglaianorza)) [[Telegram](https://t.me/aglaianorza)]
+- Matteo **R.** ([@rimaout](https://github.com/rimaout)) [[Telegram](https://t.me/rimaout)]
 
 Originariamente è stato invece gestito, nell'A.A. 2023/24, da [Ionut Cicio](https://github.com/CuriousCI) e [Valerio Fontana](https://github.com/FeddyLix17), che ringraziamo a nome dell'intera comunità per l'ottimo lavoro svolto 💪
 
 Grazie mille in anticipo per il tuo contributo 🙌
+
