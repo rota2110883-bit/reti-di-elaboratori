@@ -24,6 +24,7 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Reti di Elabor
 | **2018** | [giugno](../../../discussions?discussions_q=is%3Aopen+category%3A"Esoneri+%26+Esami+M-Z"+label%3A"2018-06-08") |
 | **2022** | [giugno](../../../discussions?discussions_q=is%3Aopen+category%3A"Esoneri+%26+Esami+M-Z"+label%3A"2022-06-07")|
 | **2025** | [esonero aprile](../../../discussions?discussions_q=is%3Aopen+category%3A"Esoneri+%26+Esami+M-Z"+label%3A"2025-04-15") | [esonero maggio](../../../discussions?discussions_q=is%3Aopen+category%3A"Esoneri+%26+Esami+M-Z"+label%3A"2025-05-29") |
+| **2026** | [luglio](https://github.com/sapienzastudentsnetwork/reti-di-elaboratori/discussions?discussions_q=luglio+2026) | 
 
 ### Filtri per Esercitazione
 
